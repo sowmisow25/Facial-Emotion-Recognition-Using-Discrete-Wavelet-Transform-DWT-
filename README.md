@@ -100,7 +100,6 @@ This project demonstrated the power of combining **image processing** with deep 
 
 You can connect with me on:  
 - [LinkedIn](https://www.linkedin.com/in/sowmya-sreenivasan/)  
-- [GitHub](https://github.com/sowmyasreenivasan)  
 
 ## **Note**  
 The code file and related details could not be uploaded to this repository as the file size exceeds GitHub's upload limit. I attempted to upload the file but was restricted due to its large size. Thank you for understanding! If you'd like more information about the code or the project, feel free to reach out to me.
